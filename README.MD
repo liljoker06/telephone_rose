@@ -10,15 +10,7 @@
 
 ---
 
-## 📝 Modalité d’évaluation
 
-📅 **Délai de rendu** : au plus tard dimanche 23:59
-
-### Livrables
-
-* ✅ Dépôt GitHub : [Lien vers le dépôt](#)
-
----
 
 ## 🛠️ Technologies utilisées
 
