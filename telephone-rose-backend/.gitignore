@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Env files
+.env
+
+# Conversations
+conversations/
+
+# Logs
+npm-debug.log*
